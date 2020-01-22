@@ -25,3 +25,11 @@ end
 def using_concat(array,array2)
   array.concat(array2.concat)
 end
+
+def using_insert(array,element)
+
+end
+
+def using_uniq(array)
+  array.uniq
+end
